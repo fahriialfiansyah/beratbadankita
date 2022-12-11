@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Berat Badan Kita</string>
+    <string name="masuk_dengan_google">Masuk dengan Google</string>
+
+    <string name="masuk">Masuk</string>
+    <string name="keluar">Keluar</string>
+
+    <string name="mulai">Mulai</string>
+    <string name="saat_ini">Saat ini</string>
+    <string name="tujuan">Tujuan</string>
+    <string name="berat_badan_ideal">Mau tau berat idealmu?</string>
+    <string name="klik_disini">Klik disini</string>
+
+    <string name="tinggi_badan_saat_ini">Tinggi Badan Saat Ini (cm)</string>
+    <string name="rekomendasi_berat">Rekomendasi berat badan ideal kamu: %.1f - %.1f kg</string>
+    <string name="cek">Cek</string>
+
+    <string name="masukkan_berat_badan">Masukkan berat badan</string>
+    <string name="masukkan_catatan">Masukkan catatan</string>
+
+
+    <string name="simpan">simpan</string>
+    <string name="pilih_tanggal">Pilih tanggal</string>
+
+    <string name="berat_badan">Haii silahkan isi informasi \n kamu untuk memulai</string>
+    <string name="berat_badan_kita">Selamat datang di Bedankit</string>
+
+    <string name="tambah_berat_badan">Tambah berat badan</string>
+
+    <string name="grafik">Grafik</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="profil">Profil</string>
+    <string name="dashboard">Ringkasan</string>
+    <string name="logo_aplikasi">Logo Aplikasi</string>
+    <string name="nama_aplikasi">Berat Badan Kita</string>
+    <string name="hasil_berat_kamu">Hasil: %1$s</string>
+
+    <string name="berat_badan_saat_ini">Berat Badan Saat Ini (kg)</string>
+    <string name="berat_badan_tujuan">Berat Badan Tujuan (kg)</string>
+
+
+    <string name="berat_invalid">Isi Berat badan saat ini</string>
+    <string name="goal_invalid">Isi tujuan Berat Badan kamu </string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="konfirmasi_hapus_histori">Apakah kamu yakin ingin menghapus histori ini?</string>
+</resources>
